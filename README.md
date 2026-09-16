@@ -214,4 +214,4 @@ LinCity-NG is available as a full free version, including all features and updat
 Get ready to build your dream city with LinCity-NG! Download the complete package today and start your urban adventure!
 
 ---
-**Last updated:** 2026-09-16 09:01:32 UTC
+**Last updated:** 2026-09-16 14:33:23 UTC
